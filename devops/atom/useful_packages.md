@@ -23,7 +23,7 @@ A Base Linter with Cow Powers
 1. [file-icons](https://atom.io/packages/file-icons)  
 Assign file extension icons and colours for improved visual grepping
 
-1. [change-case](https://atom.io/packages/change-case)
+1. [change-case](https://atom.io/packages/change-case)  
 Change the case of selected text using node-change-case
 
 1. [todo-show](https://atom.io/packages/todo-show)  
